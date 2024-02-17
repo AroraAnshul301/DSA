@@ -1,4 +1,4 @@
 # Beginning
-This is just for beginning....
+Starting to begin my journey on GitHub....
 <br>
-author:Anshul Arora
+Author: Anshul Arora
